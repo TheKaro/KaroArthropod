@@ -1,6 +1,6 @@
 <img src="assets/standard.gif" width="700"/>
 
-# 🕷️ Karo Arthropod
+# Karo Arthropod
 
 Karo Arthropod is a 1.20.1 Mohist survival server built around the terrifying and immersive "Arthropod Phobia Expansions" mod.
 
@@ -14,7 +14,7 @@ If you're not afraid of what crawls in the dark... Join us.
 
 ---
 
-## 🧬 Modpack Information
+## Modpack Information
 
 - Minecraft Version: 1.20.1
 - Server Software: Mohist
@@ -23,7 +23,7 @@ If you're not afraid of what crawls in the dark... Join us.
 
 ---
 
-## 🌍 How To Join
+## How To Join
 
 ### 1) Download & Install CurseForge
 Download CurseForge from:
@@ -50,7 +50,7 @@ karoarthropod.my.pebble.host
 
 ---
 
-## ⚠️ Disclaimer
+## DISCLAIMER
 
 This server is designed to be challenging.
 
