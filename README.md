@@ -56,3 +56,4 @@ This server is designed to be challenging.
 
 Expect difficulty spikes, intense combat, and moments of panic.
 
+---
